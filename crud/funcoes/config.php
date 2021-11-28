@@ -1,13 +1,13 @@
 <?php
 
 define('SRC',
-$_SERVER['DOCUMENT_ROOT'].'/ds2t20212/thiago/admin/');
+$_SERVER['DOCUMENT_ROOT'].'/ds2t20212/thiago/crudContatos/crud/');
 
 
-const BD_SERVER = 'localhost';
-const BD_USER = 'root';
-const BD_PASSWORD = 'bcd127';
-const BD_DATABASE = 'dbjogos';
+//const BD_SERVER = 'localhost';
+//const BD_USER = 'root';
+//const BD_PASSWORD = 'bcd127';
+//const BD_DATABASE = 'dbjogos';
 
 
    
